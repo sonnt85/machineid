@@ -1,5 +1,7 @@
 # machineid provides support for reading the unique machine id of most host OS's (without admin privileges)
 
+[![Go Reference](https://pkg.go.dev/badge/github.com/sonnt85/machineid.svg)](https://pkg.go.dev/github.com/sonnt85/machineid)
+
 ![Image of Gopher 47](logo.png)
 
 … because sometimes you just need to reliably identify your machines.
